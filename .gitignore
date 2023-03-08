@@ -126,3 +126,11 @@ dmypy.json
 
 # for this project
 env
+/.idea/ChatGPT-Proxy.iml
+/.idea/compiler.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/pipenv
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/vcs.xml
+/.idea/.gitignore
